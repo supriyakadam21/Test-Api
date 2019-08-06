@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chai": "^4.2.0",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
